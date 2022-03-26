@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @jareddgoldberg
-- 👀 I’m interested in learning Python, Javascript, SQL, and any other coding language that can be useful in my career (I am a physician)
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in learning Python, Javascript, SQL, and any other coding language that can be useful in my career (I am a physician).
 - 📫 How to reach me: jared.goldberg@gmail.com
 
 <!---
